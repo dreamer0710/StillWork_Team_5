@@ -6,7 +6,8 @@
 
 ### 문제 정의서 renewal
 ### 데이타 분석(준비하기)
-- Y (목적 변수)와 X 고민해서 정리합시다. 
+- 목적변수(Y) 공통 : Sell out 성숙국가 : OLED 경쟁지수 = LG OLED / QLED 미성숙 국가 : OLED카테고리 지수 = OLED / 4KCancel changes
+- X는 빨간색 칼럼(추가 삭제 가능), 기간1(1-hot 인코딩), 미디어(1-hot 인코딩)
 
 ## 질문 리스트
 - 국가를 Clustering하는 방법? 어떤 기준?
